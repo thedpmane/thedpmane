@@ -1,5 +1,5 @@
 
- <div margin='auto'>
+ <div width='100%' margin='auto'>
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img not found" ></div>
 # 💫 About Me:
 🌱 I’m Full Stack WebDeveloper, passionate coder, and capable of writing efficient code using MERN Stack. Ambitious to work and collaborate with other dedicated and enterprising developers. I'm passionate about sharing knowledge, creating technology to help and elevate people.<br><br>📫 How to reach me thedpmane@gmail.com<br><br>⚡ I speak JavaScript.<br><br>📄 Want to know more? Check out my portfolio  <a href="https://thedpmane.github.io/">here</a>.<br><br>⚡ Fun fact "A quitter never wins and a winner never quits.”<br><br>
