@@ -6,7 +6,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/manedeepak">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/manedeepak" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 
 
 # 💻 Tech Stack:
