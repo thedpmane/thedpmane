@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=thedpmane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thedpmane&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thedpmane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thedpmane)](https://github.com/thedpmane/github-readme-activity-graph)
+[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thedpmane&theme=react-dark)](https://github.com/thedpmane/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thedpmane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
